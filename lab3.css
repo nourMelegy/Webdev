@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(69, 155, 52);
+    font-family: Arial;
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+}
+
+input {
+    padding: 5px;
+}
+
+button {
+    background-color: rgb(153, 19, 48);
+    color: white;
+    padding: 5px;
+}
+
+ul {
+    list-style: none;
+}
