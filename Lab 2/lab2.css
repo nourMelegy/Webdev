@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(236, 222, 204);
+}
+h1{
+    color:rgb(151, 204, 206);
+    font-size: 40px;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+p{
+    font-size:18 px;
+    color : rgb(0, 0, 0);
+    text-align: center;
+}
+.project{
+    background-color: rgb(151, 204, 206);
+    padding: 20px;
+    margin: 20px;
+    border: white;
+    text-align: center;
+}
