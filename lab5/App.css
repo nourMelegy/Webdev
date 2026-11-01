@@ -1,0 +1,83 @@
+.app {
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 20px;
+}
+
+.app-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.watch-list {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.movie-form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 25px;
+}
+
+.movie-form input {
+  flex: 1;
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.list-heading,
+.movie-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.movie-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.movie-card {
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.movie-rating {
+  color: orange;
+}
+
+.movie-details {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.movie-details textarea {
+  padding: 10px;
+  resize: vertical;
+}
+
+.remove-button {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+}
+
+.add-button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 20px;
+}
